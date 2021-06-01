@@ -16,20 +16,20 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark  bg-primary">
   <!-- <div class="container-fluid"> -->
-  <h1 class="text-light">stock produits</h1>   
+  <h2 class="text-info ">TangerMarket</h2>   
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav ml-5 ">
-        <li class="nav-item active h3">
+        <li class="nav-item active h5">
           <a class="nav-link active" href="index.php">les catégories
            
           </a>
         </li>
         
-        <li class="nav-item h3">
+        <li class="nav-item h5">
           <a class="nav-link" href="ajouter.php">ajouter produits</a>
         </li>
         
-        <li class="nav-item h3">
+        <li class="nav-item h5">
           <a class="nav-link" href="login.php">contact</a>
         </li>
       </ul>
